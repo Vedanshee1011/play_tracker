@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="100" height="100">
+  <!-- Background Circle -->
+  <circle cx="128" cy="128" r="128" fill="#f0f0f0"/>
+  
+  <!-- Cricket Bat Icon -->
+  <path d="M140.7 95.3c-2.3-3.3-5.9-5.1-9.8-5.1h-39.6c-3.9 0-7.5 1.8-9.8 5.1L7.7 188.6c-4.9 7-2.5 16.7 4.5 20.8 5.8 3.2 13 1.7 16.6-3.1l72.1-99.7v138.8c0 7.8 6.4 14.1 14.1 14.1h41.9c7.8 0 14.1-6.4 14.1-14.1V111.9l72.1 99.7c3.6 4.9 10.8 6.4 16.6 3.1 7-3.9 9.4-13.8 4.5-20.8l-108.5-93.3zm.4 44.9l-31.5-43.5h63l-31.5 43.5z" fill="#F0F0F0"/>
+  
+  <!-- Cricket Ball Icon -->
+  <circle cx="128" cy="128" r="50" fill="#FF4500"/>
+  
+  <!-- Text - "Play Tracker" -->
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="20" fill="#000000" text-anchor="middle">Play Tracker</text>
+</svg>
